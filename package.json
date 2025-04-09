@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "שרת Node.js לשליפת פרטי יזם/קבלן/אדריכל עם GPT-4",
   "main": "server.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node server.js"
   },
