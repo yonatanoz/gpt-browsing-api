@@ -1,10 +1,9 @@
 
-// server.js
-import express from "express";
-import cors from "cors";
-import bodyParser from "body-parser";
-import fetch from "node-fetch";
-import dotenv from "dotenv";
+const express = require("express");
+const cors = require("cors");
+const bodyParser = require("body-parser");
+const fetch = require("node-fetch");
+const dotenv = require("dotenv");
 
 dotenv.config();
 
